@@ -16,8 +16,8 @@ deploy:
   skip_cleanup: true
   github_token: $GITHUB_TOKEN # Set in travis-ci.org dashboard
   local_dir: public
-  email: zeroleaf021@gmail.com
-  name: zeroleaf
+  email: joing2046@163.com
+  name: joing
   on:
     branch: master
 
