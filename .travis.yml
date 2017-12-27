@@ -16,6 +16,8 @@ deploy:
   skip_cleanup: true
   github_token: $GITHUB_TOKEN # Set in travis-ci.org dashboard
   local_dir: public
+  repo: Joing2046/Joing2046.github.io
+  target_branch: master
   email: joing2046@163.com
   name: joing
   on:
