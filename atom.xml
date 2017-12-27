@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>JOING</title>
+  
+  <subtitle>意志あるところに道は開ける</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://joing2046.github.io/"/>
+  <updated>2017-12-27T14:04:48.650Z</updated>
+  <id>http://joing2046.github.io/</id>
+  
+  <author>
+    <name>joing</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>hotfix 测试</title>
+    <link href="http://joing2046.github.io/2017/06/17/hotfix%E6%B5%8B%E8%AF%95/"/>
+    <id>http://joing2046.github.io/2017/06/17/hotfix测试/</id>
+    <published>2017-06-17T16:33:54.000Z</published>
+    <updated>2017-12-27T14:04:48.650Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h2 id=&quot;兼容设备&quot;&gt;&lt;a href=&quot;#兼容设备&quot; class=&quot;headerlink&quot; title=&quot;兼容设备&quot;&gt;&lt;/a&gt;兼容设备&lt;/h2&gt;&lt;p&gt;T013   Vivo X3T          android 4.2&lt;br&gt;T010   OPPOR8007    an
+      
+    
+    </summary>
+    
+    
+      <category term="测试" scheme="http://joing2046.github.io/tags/%E6%B5%8B%E8%AF%95/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>iOS - IPv6 测试</title>
+    <link href="http://joing2046.github.io/2017/06/10/iOS-ipv6%E6%B5%8B%E8%AF%95/"/>
+    <id>http://joing2046.github.io/2017/06/10/iOS-ipv6测试/</id>
+    <published>2017-06-10T16:33:54.000Z</published>
+    <updated>2017-12-27T14:04:48.650Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;想要测试你的 APP 是否在 IPv6 环境下运转是否正常，你所需要的就是一台用非 WiFi 方式上网的Mac电脑。&lt;br&gt;搭建 IPv6 测试环境说白了就是: 用非 WiFi 方式上网的 Mac 做一个热点，然后用 iPhone 连接这个 WiFi 。&lt;br&gt;和正常的开启
+      
+    
+    </summary>
+    
+    
+      <category term="Git" scheme="http://joing2046.github.io/tags/Git/"/>
+    
+  </entry>
+  
+</feed>
