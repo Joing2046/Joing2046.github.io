@@ -8,8 +8,7 @@ install:
 
 script:
   - hexo generate
-  - echo "joing2046.github.io" > public/CNAME
-
+  
 # https://docs.travis-ci.com/user/deployment/pages/
 deploy:
   provider: pages
@@ -21,8 +20,8 @@ deploy:
   email: joing2046@163.com
   name: joing
   on:
-    branch: master
+    branch: src
 
 branches:
   only:
-    - master
+    - src
